@@ -1,0 +1,13 @@
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Ifelse\Ifelse\obj\Debug\netcoreapp3.1\Ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Ifelse\Ifelse\obj\Debug\netcoreapp3.1\Ifelse.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Ifelse\Ifelse\obj\Debug\netcoreapp3.1\Ifelse.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Ifelse\Ifelse\obj\Debug\netcoreapp3.1\Ifelse.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Ifelse\Ifelse\bin\Debug\netcoreapp3.1\Ifelse.exe
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Ifelse\Ifelse\bin\Debug\netcoreapp3.1\Ifelse.deps.json
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Ifelse\Ifelse\bin\Debug\netcoreapp3.1\Ifelse.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Ifelse\Ifelse\bin\Debug\netcoreapp3.1\Ifelse.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Ifelse\Ifelse\bin\Debug\netcoreapp3.1\Ifelse.dll
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Ifelse\Ifelse\bin\Debug\netcoreapp3.1\Ifelse.pdb
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Ifelse\Ifelse\obj\Debug\netcoreapp3.1\Ifelse.dll
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Ifelse\Ifelse\obj\Debug\netcoreapp3.1\Ifelse.pdb
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Ifelse\Ifelse\obj\Debug\netcoreapp3.1\Ifelse.genruntimeconfig.cache

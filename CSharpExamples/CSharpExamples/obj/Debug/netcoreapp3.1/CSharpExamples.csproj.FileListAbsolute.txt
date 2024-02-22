@@ -1,0 +1,13 @@
+C:\Users\DELL\OneDrive\Desktop\Dotnet\CSharpExamples\CSharpExamples\obj\Debug\netcoreapp3.1\CSharpExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Dotnet\CSharpExamples\CSharpExamples\obj\Debug\netcoreapp3.1\CSharpExamples.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Dotnet\CSharpExamples\CSharpExamples\obj\Debug\netcoreapp3.1\CSharpExamples.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Dotnet\CSharpExamples\CSharpExamples\obj\Debug\netcoreapp3.1\CSharpExamples.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Dotnet\CSharpExamples\CSharpExamples\bin\Debug\netcoreapp3.1\CSharpExamples.exe
+C:\Users\DELL\OneDrive\Desktop\Dotnet\CSharpExamples\CSharpExamples\bin\Debug\netcoreapp3.1\CSharpExamples.deps.json
+C:\Users\DELL\OneDrive\Desktop\Dotnet\CSharpExamples\CSharpExamples\bin\Debug\netcoreapp3.1\CSharpExamples.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Dotnet\CSharpExamples\CSharpExamples\bin\Debug\netcoreapp3.1\CSharpExamples.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Desktop\Dotnet\CSharpExamples\CSharpExamples\bin\Debug\netcoreapp3.1\CSharpExamples.dll
+C:\Users\DELL\OneDrive\Desktop\Dotnet\CSharpExamples\CSharpExamples\bin\Debug\netcoreapp3.1\CSharpExamples.pdb
+C:\Users\DELL\OneDrive\Desktop\Dotnet\CSharpExamples\CSharpExamples\obj\Debug\netcoreapp3.1\CSharpExamples.dll
+C:\Users\DELL\OneDrive\Desktop\Dotnet\CSharpExamples\CSharpExamples\obj\Debug\netcoreapp3.1\CSharpExamples.pdb
+C:\Users\DELL\OneDrive\Desktop\Dotnet\CSharpExamples\CSharpExamples\obj\Debug\netcoreapp3.1\CSharpExamples.genruntimeconfig.cache

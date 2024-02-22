@@ -1,0 +1,13 @@
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Forloop\Forloop\bin\Debug\netcoreapp3.1\Forloop.exe
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Forloop\Forloop\bin\Debug\netcoreapp3.1\Forloop.deps.json
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Forloop\Forloop\bin\Debug\netcoreapp3.1\Forloop.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Forloop\Forloop\bin\Debug\netcoreapp3.1\Forloop.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Forloop\Forloop\bin\Debug\netcoreapp3.1\Forloop.dll
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Forloop\Forloop\bin\Debug\netcoreapp3.1\Forloop.pdb
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Forloop\Forloop\obj\Debug\netcoreapp3.1\Forloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Forloop\Forloop\obj\Debug\netcoreapp3.1\Forloop.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Forloop\Forloop\obj\Debug\netcoreapp3.1\Forloop.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Forloop\Forloop\obj\Debug\netcoreapp3.1\Forloop.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Forloop\Forloop\obj\Debug\netcoreapp3.1\Forloop.dll
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Forloop\Forloop\obj\Debug\netcoreapp3.1\Forloop.pdb
+C:\Users\DELL\OneDrive\Desktop\Dotnet\Forloop\Forloop\obj\Debug\netcoreapp3.1\Forloop.genruntimeconfig.cache
